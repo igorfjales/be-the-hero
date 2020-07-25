@@ -3,18 +3,25 @@
 ## Aplicação feita através da Semana Omnistack 11, utilizando as seguintes tecnologias em nível intermediário: NodeJS, React, React Native, SQLite.
 
 Front-end: React
+
 Back-end: NodeJS
+
 Mobile: React Native
+
 Banco de Dados: SQLite
+
 Testes Automatizados: Jest
+
 
 Essa projeto é capaz de fornecer o meio termo entre ONGs e pessoas capazes de ajudar financeiramente com doações em casos específicos.
 
 Como o projeto funciona?
 
 1 - A ONG se cadastra;
+
 2 - Depois de cadastrada, a ONG consegue cadastrar os casos que necessitam de ajuda financeira, deixando explícito o valor necessário para os casos. 
     O cadastro de ONGs e casos são feitos pela aplicação web.
+    
 3 - Após os casos serem cadastrados, estarão disponíveis para visualização na aplicação mobile e nela as pessoas são capazes de encontrar um meio de
     comunicação com a ONG detentora do caso através do WhatsApp ou E-mail para determinarem como será feita a transação financeira.
     
@@ -42,11 +49,11 @@ Como o projeto funciona?
 
 ### Tela 'Home':
 
-<img src="mobile/images/tela_main_mobile.png">
+<img src="mobile/images/tela_main_mobile.png" style="max-width:70%;">
 
 ### Tela de detalhes do caso:
 
-<img src="mobile/images/tela_detalhes_mobile.png">
+<img src="mobile/images/tela_detalhes_mobile.png" style="max-width:70%;">
 
 
 
