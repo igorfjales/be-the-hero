@@ -1,5 +1,6 @@
 # be-the-hero
 
+
 ## Aplicação feita através da Semana Omnistack 11, utilizando as seguintes tecnologias em nível intermediário: NodeJS, React, React Native, SQLite.
 
 Front-end: React
