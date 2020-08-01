@@ -49,11 +49,11 @@ Como o projeto funciona?
 
 ### Tela 'Home':
 
-<img src="mobile/images/tela_main_mobile.png" width="400" height="600">
+<img src="mobile/images/tela_main_mobile.png" width="400" height="650">
 
 ### Tela de detalhes do caso:
 
-<img src="mobile/images/tela_detalhes_mobile.png" width="400" height="600">
+<img src="mobile/images/tela_detalhes_mobile.png" width="400" height="650">
 
 
 
